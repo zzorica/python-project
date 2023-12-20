@@ -11,6 +11,5 @@ spec:
     mode: "auto"
     params:
       repo: "custom"
-      custom_repo: "https://github.com/bcdr-demos/python-project"
       region: "us-pittsburgh"
 
